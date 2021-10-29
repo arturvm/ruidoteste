@@ -142,7 +142,7 @@
 				<Title>testepoligono</Title>
 				<Abstract>GH:testepoligono ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/arturvm/ruidoteste/releases/download/Map_Download/testepoligono.zip˸notListing˸˸maxZoom˸8</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸8</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-49.32579004446542" miny="-28.612832657623294" maxx="-49.32128203693124" maxy="-28.603462843903806"></LatLonBoundingBox>
